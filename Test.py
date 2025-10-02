@@ -2,6 +2,8 @@ import sys
 import random
 import pygame
 
+
+#Random
 # -------------------- Constants --------------------
 WIDTH, HEIGHT = 1000, 800
 FPS = 60
